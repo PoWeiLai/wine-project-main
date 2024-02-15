@@ -1,0 +1,2 @@
+nvim
+winpty nvim
