@@ -4,5 +4,10 @@
 	process = git-lfs filter-process
 	required = true
 [user]
-	name = Harrison
+	name = Po Wei
 	email = lapo090790@shms-mail.ch
+[difftool "sourcetree"]
+	cmd = "'' "
+[mergetool "sourcetree"]
+	cmd = "'' "
+	trustExitCode = true

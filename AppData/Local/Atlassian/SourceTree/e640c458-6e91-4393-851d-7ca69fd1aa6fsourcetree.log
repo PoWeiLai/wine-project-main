@@ -1,0 +1,5 @@
+2024-02-08T21:24:17: LogHost: Initializing to normal mode
+2024-02-08T21:24:19: LogHost: SuppressChangeNotifications was called (perhaps via AddRange), yet you do not
+2024-02-08T21:24:19: LogHost: have a subscription to ShouldReset. This probably isn't what you want, as ItemsAdded
+2024-02-08T21:24:19: LogHost: and friends will appear to 'miss' items
+2024-02-08T21:25:08: Could not obtain git dir, C:\Users\user\Desktop\Wine-project-main is not a git repo.

@@ -1,0 +1,4 @@
+2024-02-08T21:17:44: LogHost: Initializing to normal mode
+2024-02-08T21:20:26: LogHost: SuppressChangeNotifications was called (perhaps via AddRange), yet you do not
+2024-02-08T21:20:26: LogHost: have a subscription to ShouldReset. This probably isn't what you want, as ItemsAdded
+2024-02-08T21:20:26: LogHost: and friends will appear to 'miss' items
